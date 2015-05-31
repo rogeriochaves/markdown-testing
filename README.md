@@ -3,7 +3,7 @@ Hello World
 
 ## Getting Started
 
-[Say](#print): `Hello World`
+[Say](#print) `Hello World`
 
 
 Sum example
